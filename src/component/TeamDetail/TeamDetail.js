@@ -17,7 +17,7 @@ const TeamDetail = () => {
             .then(data => setTeamDetail(data.teams[0]));
         //  console.log(data) );
 
-    }, [])
+    }, [teamId])
 
     return (
         <div className="container">
