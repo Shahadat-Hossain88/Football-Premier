@@ -26,12 +26,14 @@
 .team-data{
     width: 50%;
 }
+.team-data img{
+    width: 3%;
+}
 .teamDetail-banner img{
     width: 100%;
     margin:auto;
 }
 .teamDetail-banner{
-    display:flex;
     width: 50%;
 }
 .team-description{
@@ -40,5 +42,11 @@
     box-shadow: 5px 5px 5px;
     border-radius:15px;
     padding: 10px;
+
+}
+.media img{
+    width:15%;
+    margin: auto;
+    margin-left: 250px;
 
 }

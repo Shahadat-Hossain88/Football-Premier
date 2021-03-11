@@ -15,7 +15,6 @@ const TeamName = (props) => {
     return (
         <div className="col-md-4">
             <div>
-                {/* <img src={strTeamBanner} alt=""/> */}
             </div>
             <div className="card-container  card  " >
                 <img src={strTeamBadge} className="card-img-top" alt="" />

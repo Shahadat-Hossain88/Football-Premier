@@ -14,13 +14,7 @@ const Home = () => {
     }, []);
 
 
-    // const [banner,setBanner] = useState([]);
-    // useEffect(() => {
-    //     const  url='https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League';
-    //     fetch(url)
-    //     .then(res => res.json())
-    //     .then(data => setBanner(data.teams[0].strTeamBanner));
-    //  },[]);
+    //
 
     return (
 
